@@ -11,7 +11,6 @@ import org.springframework.context.annotation.Configuration;
  * @ProjectName: springboot-rabbitmq
  * @Package: com.example.topic
  * @ClassName: TopicRabbitConfig
- * @Description
  */
 @Configuration
 public class TopicRabbitConfig {
