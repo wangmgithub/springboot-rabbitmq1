@@ -12,8 +12,6 @@ import org.springframework.context.annotation.Configuration;
  * @Package: com.example.fanout
  * @ClassName: FanoutRabbitConfig
  * @Description: 队列配置
- * @Author: Xiao Nong
- * @Version: 1.0
  */
 @Configuration
 public class FanoutRabbitConfig {
